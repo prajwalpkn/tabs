@@ -4,11 +4,15 @@
   <string name="image_loading_error">Problem in loading image</string>
 
   <string-array name="doppelganger_names">
-    <item>Doguel Jackson</item>
-    <item>Llama Lautner</item>
-    <item>Doggison Ford</item>
-    <item>Dogard Barkson</item>
-    <item>Charlie Catlin</item>
-    <item>Frogonna</item>
+    <item>Hindi</item>
+    <item>English</item>
+    <item>Punjabi</item>
+    <item>French</item>
+    <item>Russian</item>
+    <item>Japanese</item>
+    <item>Korean</item>
+    <item>Spanish</item>
+    <item>Italian</item>
+    <item>Chinese</item>
   </string-array>
 </resources>
