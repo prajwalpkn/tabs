@@ -74,7 +74,7 @@ class DoppelgangerFragment : Fragment() {
     doppelgangerNameTv.text = doppelgangerNamesArray[position]
   }
 
-  /**
+  /**com
    * Gets the file from assets, converts it into a bitmap and sets it on the ImageView
    * @param context a Context instance
    * @param filePath relative path of the file
